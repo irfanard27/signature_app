@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.github.barteksc/android-pdf-viewer/2.8.2/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="69222656aff9fc06ba45b16a6cf65684ce39e121">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.barteksc-android-pdf-viewer-2.8.2_ad32322e40fb56a243fd5712cbc830ad9fdece1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_68663673b7b6e12eb7cccf7f8735f5db7131cb78/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.3.2/a91f0461bde34f14b72a6f657e4a434950a069da/itextpdf-5.3.2.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a91f0461bde34f14b72a6f657e4a434950a069da">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/itextpdf-5.3.2_1e4f8ea6cbace1a300bc4db6bd4ec28b65ca54d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.joanzapata.pdfview/android-pdfview/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.joanzapata.pdfview-android-pdfview-1.0.4_9598720959116622a6a8ff175b97bee1709ebc42/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/libs/qpdftoolkit/qoppapdf.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c005e9039bc5c2ef4875a04a3ab45f1e32f73f29">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/qoppapdf_441c3222eb2133ecf70f603a46d4a1d76307c4aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_a820b516ad8d10f2a2b68bf7e03dc7cdd2fe8f97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_6f43310783fd527d511ce280f65a5737315f23ca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_de14cab3e9a82692a9f3db0a307435bf39538c25/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_55d6e72c8296db82d9ed204f82d156f5d1e15694/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_ce943936865fb86206985cf8a738ea02321c883c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_4e641f8a516efe6db0519a90406fd71bb6406a18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_874a63d279eb882b1993926287954d5e0ca3f800/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f8c71d39958ea3285d73b3c4c06f5367f6fe685d">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f70907dc2bae708d41b279d32ccdb8a46c350d20/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_d937f04f870f00798d250a2ef9341c5fc88357e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_991d13bb28df54b175b34923d63bab7b87944dfd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_13bae6c5d583e96c5c15c0d18de19fdabd02566c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_272d963fe68ac4b210caa0707bfe8ee52284a696/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.kyanogen.signatureview/signature-view/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="cbd685a023856264b183c2a87dcfacd21fa8c439">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.kyanogen.signatureview-signature-view-1.1_1cd3b42a390281cf5f1678fd29d849f6f304002c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4e756b0c0259514242c8adcf011656b6c10df204">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a455b67a5c2c2d0856a04c986d9975bd16fc106/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.nbsp/library/1.8/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="17c2586c675b0552212b5ca09bfab4537511bcd6">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nbsp-library-1.8_93ab9fc794c3821eaf2e1714a3ad5c6c42862042/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/muhammadirfanardiansyah/AndroidStudioProjects/SignatureApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_61b66e48360e4a766df2ef3dc0471c47d6da5103/classes.dex" />
+    </item>
+
+</items>
